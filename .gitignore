@@ -1,0 +1,6 @@
+# Prevent users to commit their own Images
+*.jpg
+*.png
+*.bmp
+# Prevent mac users to commit .DS_Store files
+*.DS_Store
